@@ -22,12 +22,6 @@ dependencies {
     testImplementation 'mysql:mysql-connector-java:8.0.30'
     testImplementation 'commons-dbutils:commons-dbutils:1.7'
 
-    implementation 'org.junit.jupiter:junit-jupiter:5.8.2'
-    implementation 'com.codeborne:selenide:6.17.1'
-    implementation 'com.github.javafaker:javafaker:1.0.2'
-    implementation 'mysql:mysql-connector-java:8.0.30'
-    implementation 'commons-dbutils:commons-dbutils:1.7'
-
 }
 
 test {
